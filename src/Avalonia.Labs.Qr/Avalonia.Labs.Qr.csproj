@@ -9,4 +9,7 @@
     <ItemGroup>
         <PackageReference Include="Avalonia" Version="11.0.6" />
     </ItemGroup>
+    <ItemGroup>
+      <PackageReference Update="Microsoft.SourceLink.GitHub" Version="8.0.0" />
+    </ItemGroup>
 </Project>
